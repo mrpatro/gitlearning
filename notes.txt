@@ -11,6 +11,8 @@ pwd
 	current path
 sleep 
 	sleeps for n seconds
+git init
+	initialise the git repository
 git status
 	status of the files
 git add file name
@@ -20,3 +22,7 @@ git commit
 
 git diff
 	says about files changed in pwd and not yet in stages
+git log
+	says about the log details of the commits/ shows the versions of the commits
+git checkout
+	moving to the working dir
