@@ -1,0 +1,13 @@
+hello, this is my first file in the repository
+wow thats incredible
+
+brew
+	install manager
+cat: 
+	reads the contents of the file
+ls
+	list the files /contentns of the dir
+pwd
+	current path
+sleep 
+	sleeps for n seconds
