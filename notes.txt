@@ -17,4 +17,6 @@ git add file name
 	adding the files to the container
 git commit
 	staged to repository
-	
+
+git diff
+	says about files changed in pwd and not yet in stages
