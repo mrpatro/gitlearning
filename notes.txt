@@ -24,5 +24,6 @@ git diff
 	says about files changed in pwd and not yet in stages
 git log
 	says about the log details of the commits/ shows the versions of the commits
-git checkout
-	moving to the working dir
+git checkout <commit_id>
+	moving to the working dir of that version(commit id)
+
