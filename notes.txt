@@ -27,3 +27,6 @@ git log
 git checkout <commit_id>
 	moving to the working dir of that version(commit id)
 
+git branch
+	show the available branches
+
