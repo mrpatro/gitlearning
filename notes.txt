@@ -30,3 +30,5 @@ git checkout <commit_id>
 git branch
 	show the available branches
 
+git clone <url>
+	clone a git project
